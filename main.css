@@ -212,7 +212,7 @@ body {
   backdrop-filter:blur(var(--background-blur)) brightness(var(--background-brightness))
 }
 html,body {
-  font-family:"Share Tech Mono",monospace
+  font-family:"Roboto",monospace
 }
 .appMount-2yBXZl,.app-2CXKsg,.bg-1QIAus,.guilds-2JjMmN,.scroller-3X7KbA,.sidebar-1tnWFu,.container-1NXEtd,.panels-3wFtMD,.container-YkUktl,.chat-2ZfjoI,.chatContent-3KubbW,.title-31SJ6t,.searchBar-jGtisZ,.container-2o3qEW,.members-3WRCEx,.content-1jQy2l,.container-1oeRFJ,.scrollableContainer-15eg7h,.channelTextArea-1VQBuV,.container-2cd8Mz,.section-3G9aLW,.nowPlayingColumn-1eCBCN,.container-1oAagU,.itemCard-3Etziu,.section-3G9aLW,.inset-SbsSFp,.container-ZMc96U,.privateChannels-oVe7HL,.scroller-WSmht3,.layer-86YKbF,.standardSidebarView-E9Pc3j,.sidebarRegionScroller-FXiQOh,.contentRegion-3HkfJJ,.contentRegionScroller-2_GT_N,.container-3u6dG-,.stickyHeader-fX4ei6,.scroller-1TOeMq,.pageWrapper-2PwDoS {
   background:rgba(0,0,0,0) !important
