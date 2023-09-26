@@ -26,7 +26,7 @@
   --background-size:cover;
   --background-blur:5px;
   --background-brightness:100%;
-  --title-image:url("https://commandcrafterhd.github.io/Fallout4TerminalTheme/svg/title.svg");
+  --title-image:unset;
   --title-image-repeat:no-repeat;
   --title-image-size:cover;
   --title-image-color:var(--highlight);
